@@ -1,2 +1,2 @@
 ## Java100
-Java Kodlarının Yüklendiği Repo
+Java Kodlarının Yüklediğim Repo
